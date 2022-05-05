@@ -4,7 +4,7 @@
 #include <fstream>
 
 #include "ops.h"
-#include "vm.h"
+#include "pushle.h"
 
 int main(int argc, char** argv) {
   if (argc != 2) {
